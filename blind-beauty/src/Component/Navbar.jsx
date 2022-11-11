@@ -23,7 +23,10 @@ function Navbar(){
     return (<>
     <Box className={styles.mainiconBox} >
         <Box ><NavLink to="/" ><img width="100px" src="https://i.ibb.co/z2hqBwY/i1.png" alt="" /></NavLink></Box>
+
         <Box marginTop="30px"  ><Input className={styles.Input} placeholder="Search" ></Input></Box>
+
+        
         <Box className={styles.iconBox} >{navOps.map((el)=>
         <Box className={styles.iconBox}>
             <img width="40px" height="40px" src={el.img}   />

@@ -7,7 +7,7 @@ export const again=(v)=>{
 }
 
 function Home(){
- 
+
 
     return <><Navbar></Navbar></>
 
