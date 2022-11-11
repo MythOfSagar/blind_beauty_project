@@ -1,0 +1,31 @@
+
+    .Navbar{background-color: black;
+        color: antiquewhite;
+        text-decoration:none;
+        margin: 20px;
+        margin-top: 0px; 
+        margin-bottom: 0px;
+    }
+
+    .NavBox{
+          background-color: black;
+          display: flex;
+    }
+
+    .iconBox{
+        display: flex;
+        margin: 20px;
+        margin-top: 15px;
+        margin-bottom: 0px;
+    }
+   .Input{
+    height: 40px;
+    margin-left: 15px;
+    width: 350px;
+    border-radius: 20px;
+   }
+   .mainiconBox{
+    display: flex;
+    margin: auto;
+    text-align: center;
+   }
