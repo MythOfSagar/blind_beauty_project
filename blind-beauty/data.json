@@ -8,7 +8,7 @@
         {"title":"Fragrance","link":"#"},
         {"title":"Tools & Brushes","link":"#"},
         {"title":"Bath & Body","link":"#"},
-        {"title":"Mini Sizw","link":"#"},
+        {"title":"Mini Size","link":"#"},
         {"title":"Gifts","link":"#"},
         {"title":"Beauty Under $20","link":"/bu20"},
         {"title":"Sale & Offers","link":"#"}],
@@ -20,117 +20,300 @@
         ],
         "navOps":[
           {"img":"https://i.ibb.co/wR4mfYc/i1.png","title":"Stores & Services"},
-          {"img":"https://i.ibb.co/hBrGM3q/i1.png","title":"Community"},
-          {"img":"https://i.ibb.co/5BSWGH4/i1.png","title":"Sign In"}
+          {"img":"https://i.ibb.co/hBrGM3q/i1.png","title":"Community"}
         ],
         "just-dropped":[
           {
            "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
            "title":"SEPHORA COLLECTION",
-           "sub-title":"Wishing You Face Mask Magic",
+           "subtitle":"Wishing You Face Mask Magic",
            "details":"A limited-edition set with six masks inside to target different skin issues.",
            "price":"25",
            "id":"2579845"
 
           },
           {
-            "img":"https://www.sephora.com/productimages/sku/s2619922-main-zoom.jpg?imwidth=166",
-            "title":"Yves Saint Laurent",
-            "sub-title":"Lip Icons Set", 
+            "img":"https://www.sephora.com/productimages/sku/s2621019-main-zoom.jpg?imwidth=160",
+            "title":"Charlotte Tillburry",
+            "subtitle":"Healthy Glow Power Duo", 
             "details":"A hydrating, full-size Rouge Volupté Shine mauve lipstick and two mini Rouge Pur Couture satin red lipsticks encased a festive golden makeup pouch.",
             "price":"45",
             "id":"2619922"
  
            },
            {
-            "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
-            "title":"SEPHORA COLLECTION",
-            "sub-title":"Wishing You Face Mask Magic",
+            "img":"https://www.sephora.com/productimages/sku/s2518959-main-zoom.jpg?pb=allure-2022-bestofbeauty-badge&imwidth=160",
+            "title":"Rare Beauty by Selena",
+            "subtitle":"Soft Pinch Liquid Blush",
             "details":"A limited-edition set with six masks inside to target different skin issues.",
             "price":"25",
             "id":"2579845"
  
            },
            {
-            "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
-            "title":"SEPHORA COLLECTION",
-            "sub-title":"Wishing You Face Mask Magic",
+            "img":"https://www.sephora.com/productimages/sku/s2597268-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=160",
+            "title":"House Labs by Lady GaGa",
+            "subtitle":"Wishing You Face Mask Magic",
             "details":"A limited-edition set with six masks inside to target different skin issues.",
             "price":"25",
             "id":"2579845"
  
            },
            {
-            "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
-            "title":"SEPHORA COLLECTION",
-            "sub-title":"Wishing You Face Mask Magic",
+            "img":"https://www.sephora.com/productimages/sku/s2608917-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=160",
+            "title":"GXVE by GWEN",
+            "subtitle":"Eye See in Sparkle",
             "details":"A limited-edition set with six masks inside to target different skin issues.",
             "price":"25",
             "id":"2579845"
  
            },
            {
-            "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
-            "title":"SEPHORA COLLECTION",
-            "sub-title":"Wishing You Face Mask Magic",
+            "img":"https://www.sephora.com/productimages/sku/s2624468-main-zoom.jpg?imwidth=160",
+            "title":"Givenchy",
+            "subtitle":"Intense Silk Satin Matte",
             "details":"A limited-edition set with six masks inside to target different skin issues.",
             "price":"25",
             "id":"2579845"
  
            },
            {
-            "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
+            "img":"https://www.sephora.com/contentimages/promo/beautyoffers/2022/November/2022-11-12-slotting-promo-app-beauty-offers-banner-PATTERN-us-ca-handoff.jpg?imwidth=240",
             "title":"SEPHORA COLLECTION",
-            "sub-title":"Wishing You Face Mask Magic",
+            "subtitle":"Wishing You Face Mask Magic",
             "details":"A limited-edition set with six masks inside to target different skin issues.",
             "price":"25",
             "id":"2579845"
  
            },
            {
-            "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
+            "img":"https://www.sephora.com/productimages/sku/s2590685-main-zoom.jpg?imwidth=166",
             "title":"SEPHORA COLLECTION",
-            "sub-title":"Wishing You Face Mask Magic",
+            "subtitle":"Wishing You Face Mask Magic",
             "details":"A limited-edition set with six masks inside to target different skin issues.",
             "price":"25",
             "id":"2579845"
  
            },
            {
-            "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
+            "img":"https://www.sephora.com/productimages/sku/s2544583-main-zoom.jpg?imwidth=166",
             "title":"SEPHORA COLLECTION",
-            "sub-title":"Wishing You Face Mask Magic",
+            "subtitle":"Wishing You Face Mask Magic",
             "details":"A limited-edition set with six masks inside to target different skin issues.",
             "price":"25",
             "id":"2579845"
  
            },
            {
-            "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
+            "img":"https://www.sephora.com/productimages/sku/s2625358-main-zoom.jpg?imwidth=160",
             "title":"SEPHORA COLLECTION",
-            "sub-title":"Wishing You Face Mask Magic",
+            "subtitle":"Wishing You Face Mask Magic",
             "details":"A limited-edition set with six masks inside to target different skin issues.",
             "price":"25",
             "id":"2579845"
  
            },
            {
-            "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
+            "img":"https://www.sephora.com/productimages/sku/s2591915-main-zoom.jpg?imwidth=160",
             "title":"SEPHORA COLLECTION",
-            "sub-title":"Wishing You Face Mask Magic",
+            "subtitle":"Wishing You Face Mask Magic",
             "details":"A limited-edition set with six masks inside to target different skin issues.",
             "price":"25",
             "id":"2579845"
  
            },
            {
-            "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
+            "img":"https://www.sephora.com/productimages/sku/s2608180-main-zoom.jpg?imwidth=160",
             "title":"SEPHORA COLLECTION",
-            "sub-title":"Wishing You Face Mask Magic",
+            "subtitle":"Wishing You Face Mask Magic",
             "details":"A limited-edition set with six masks inside to target different skin issues.",
             "price":"25",
             "id":"2579845"
  
            }
-        ]
+        ],
+        "slides":[
+        {
+          "img":"https://www.sephora.com/contentimages/2022-11-11-slotting-value-size-nov-jumbo-standard-site-rwd-home-page-hero-banner-tubes-us-handoff_011.jpg?imwidth=545",
+          "title":"Big in Beauty",
+          "subtitle":"Stock up on bestselling value sizes."
+        },
+        {
+          "img":"https://www.sephora.com/contentimages/2022-holiday-launch-general-site-desktop-home-page-hero-banner-rwd-v1-product-us-release-1000x750.jpg?imwidth=545",
+          "title":"Value Sets? Obsessed!",
+          "subtitle":"Limited Edition and packed full of Products."
+        },
+        {
+          "img":"https://www.sephora.com/contentimages/2022-11-29-stock-up-on-dior-site-desktop-mweb-home-page-rwd-hero-banner-1000x750-en-us-can.jpg?imwidth=545",
+          "title":"Best of Dior",
+          "subtitle":"Luxe beauty for everyone on your sets."
+        },
+        {
+          "img":"https://www.sephora.com/contentimages/2022-fragrance-q4-site-home-page-rwd-hero-banner-holiday-value-sets-75-under-us-01..jpg?imwidth=545",
+          "title":"Fragrance Gifts ₹ 75 & Under",
+          "subtitle":"Stock up on bestselling value sizes."
+        }
+      ],
+      "bu20":[
+        {
+         "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
+         "title":"SEPHORA COLLECTION",
+         "subtitle":"Wishing You Face Mask Magic",
+         "details":"A limited-edition set with six masks inside to target different skin issues.",
+         "price":"25",
+         "id":"2579845",
+         "crueltyFree":true,
+         "bestSellers":false,
+         "miniSize":true,
+         "luxuryBeauty":false
+
+        },
+        {
+          "img":"https://www.sephora.com/productimages/sku/s2619922-main-zoom.jpg?imwidth=166",
+          "title":"Yves Saint Laurent",
+          "subtitle":"Lip Icons Set", 
+          "details":"A hydrating, full-size Rouge Volupté Shine mauve lipstick and two mini Rouge Pur Couture satin red lipsticks encased a festive golden makeup pouch.",
+          "price":"45",
+          "id":"2619922",
+          "crueltyFree":false,
+         "bestSellers":true,
+         "miniSize":false,
+         "luxuryBeauty":true
+
+         },
+         {
+          "img":"https://www.sephora.com/productimages/sku/s2621019-main-zoom.jpg?imwidth=160",
+          "title":"SEPHORA COLLECTION",
+          "subtitle":"Wishing You Face Mask Magic",
+          "details":"A limited-edition set with six masks inside to target different skin issues.",
+          "price":"25",
+          "id":"2579845",
+          "crueltyFree":false,
+         "bestSellers":false,
+         "miniSize":false,
+         "luxuryBeauty":true
+
+         },
+         {
+          "img":"https://www.sephora.com/productimages/sku/s2518959-main-zoom.jpg?pb=allure-2022-bestofbeauty-badge&imwidth=160",
+          "title":"SEPHORA COLLECTION",
+          "subtitle":"Wishing You Face Mask Magic",
+          "details":"A limited-edition set with six masks inside to target different skin issues.",
+          "price":"25",
+          "id":"2579845",
+          "crueltyFree":true,
+         "bestSellers":false,
+         "miniSize":false,
+         "luxuryBeauty":true
+
+         },
+         {
+          "img":"https://www.sephora.com/productimages/sku/s2597268-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=160",
+          "title":"SEPHORA COLLECTION",
+          "subtitle":"Wishing You Face Mask Magic",
+          "details":"A limited-edition set with six masks inside to target different skin issues.",
+          "price":"25",
+          "id":"2579845",
+          "crueltyFree":false,
+         "bestSellers":false,
+         "miniSize":true,
+         "luxuryBeauty":true
+
+         },
+         {
+          "img":"https://www.sephora.com/productimages/sku/s2608917-main-zoom.jpg?pb=2020-03-sephora-clean-2019&imwidth=160",
+          "title":"SEPHORA COLLECTION",
+          "subtitle":"Wishing You Face Mask Magic",
+          "details":"A limited-edition set with six masks inside to target different skin issues.",
+          "price":"25",
+          "id":"2579845",
+          "crueltyFree":true,
+         "bestSellers":true,
+         "miniSize":false,
+         "luxuryBeauty":false
+
+         },
+         {
+          "img":"https://www.sephora.com/productimages/sku/s2624468-main-zoom.jpg?imwidth=160",
+          "title":"SEPHORA COLLECTION",
+          "subtitle":"Wishing You Face Mask Magic",
+          "details":"A limited-edition set with six masks inside to target different skin issues.",
+          "price":"25",
+          "id":"2579845",
+          "crueltyFree":false,
+         "bestSellers":false,
+         "miniSize":false,
+         "luxuryBeauty":true
+
+         },
+         {
+          "img":"https://www.sephora.com/productimages/sku/s2608180-main-zoom.jpg?imwidth=160",
+          "title":"SEPHORA COLLECTION",
+          "subtitle":"Wishing You Face Mask Magic",
+          "details":"A limited-edition set with six masks inside to target different skin issues.",
+          "price":"25",
+          "id":"2579845",
+          "crueltyFree":false,
+         "bestSellers":false,
+         "miniSize":false,
+         "luxuryBeauty":true
+
+         },
+         {
+          "img":"https://www.sephora.com/productimages/sku/s2591915-main-zoom.jpg?imwidth=160",
+          "title":"SEPHORA COLLECTION",
+          "subtitle":"Wishing You Face Mask Magic",
+          "details":"A limited-edition set with six masks inside to target different skin issues.",
+          "price":"25",
+          "id":"2579845",
+          "crueltyFree":true,
+          "bestSellers":false,
+          "miniSize":true,
+          "luxuryBeauty":false
+ 
+
+         },
+         {
+          "img":"https://www.sephora.com/productimages/sku/s2625358-main-zoom.jpg?imwidth=160",
+          "title":"SEPHORA COLLECTION",
+          "subtitle":"Wishing You Face Mask Magic",
+          "details":"A limited-edition set with six masks inside to target different skin issues.",
+          "price":"25",
+          "id":"2579845",
+          "crueltyFree":false,
+         "bestSellers":true,
+         "miniSize":false,
+         "luxuryBeauty":true
+
+
+         },
+         {
+          "img":"https://www.sephora.com/productimages/sku/s2579845-main-zoom.jpg?imwidth=300",
+          "title":"SEPHORA COLLECTION",
+          "subtitle":"Wishing You Face Mask Magic",
+          "details":"A limited-edition set with six masks inside to target different skin issues.",
+          "price":"25",
+          "id":"2579845",
+          "crueltyFree":true,
+          "bestSellers":false,
+          "miniSize":true,
+          "luxuryBeauty":false
+ 
+
+         },
+         {
+          "img":"https://www.sephora.com/contentimages/promo/beautyoffers/2022/November/2022-11-12-slotting-promo-app-beauty-offers-banner-PATTERN-us-ca-handoff.jpg?imwidth=240",
+          "title":"SEPHORA COLLECTION",
+          "subtitle":"Wishing You Face Mask Magic",
+          "details":"A limited-edition set with six masks inside to target different skin issues.",
+          "price":"25",
+          "id":"2579845",
+          "crueltyFree":true,
+         "bestSellers":true,
+         "miniSize":false,
+         "luxuryBeauty":false
+
+
+         }
+      ]
   }
