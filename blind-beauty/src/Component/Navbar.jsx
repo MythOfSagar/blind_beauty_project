@@ -1,10 +1,10 @@
 import { Box, Input } from "@chakra-ui/react"
 import { useEffect, useState } from "react"
 import {  NavLink } from "react-router-dom"
-import { again } from "../AllRoutes/Home"
 import React from "react"
 import styles from "./bb.module.css"
 import SignIn from "./SignIn"
+import data from "../data.json"
 
 
 function Navbar(){
@@ -15,9 +15,10 @@ function Navbar(){
 
     useEffect(()=>
     {
-        again("navbar").then((res)=>setNav(res.data));
-        again("navOps").then((res)=>setOps(res.data));
-        again("navLogos").then((res)=>setLogos(res.data));
+        setNav(data.navbar)
+        setOps(data.navOps)
+        setLogos(data.navLogos)
+       
     }
 ,[])
 

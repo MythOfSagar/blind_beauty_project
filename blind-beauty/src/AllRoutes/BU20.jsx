@@ -2,7 +2,7 @@ import { Box, Button } from "@chakra-ui/react";
 import { useEffect, useState } from "react";
 import Navbar from "../Component/Navbar";
 import SingleElement from "../Component/SingleElement";
-import { again } from "./Home";
+import data from "../data.json"
 
 function BU20(){
 
@@ -26,16 +26,9 @@ function BU20(){
     }
 
 useEffect(()=>{
-    again("bu20").then((res)=>{
-        console.log(res.data)
-        setArr(res.data)
-    })
-    again("bu20").then((res)=>{
-        console.log(res.data)
-        setMain(res.data)
-    })
-    
-    // ()=>{}
+        setArr(data.bu20)
+        setMain(data.bu20)
+       console.log(data)
 },[])
 
     return <>

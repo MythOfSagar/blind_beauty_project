@@ -1,10 +1,9 @@
-import { Box, Button, Heading, Image, } from "@chakra-ui/react"
+import {Button} from "@chakra-ui/react"
 import { useEffect, useState } from "react"
 import { again } from "../AllRoutes/Home"
 import styles from "./bb.module.css"
-import BasicModal from "./OpenModal"
 import SingleElement from "./SingleElement"
-
+import data from "../data.json"
 
 function JustDropped(){
 
@@ -14,10 +13,8 @@ function JustDropped(){
     let limit=6
 
     useEffect(()=>{
-        again("just-dropped",{page:page,limit:limit}).then((res)=>setArr(res.data))
-        again("just-dropped").then((res)=>{
-            setLast(res.data.length/limit)
-        })
+        setArr(data["just-dropped"])
+        setLast(data["just-dropped"].length/limit)
     },[page])
     
      

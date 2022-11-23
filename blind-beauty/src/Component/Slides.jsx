@@ -1,9 +1,8 @@
-
-import { Box, Button, Heading, Image, } from "@chakra-ui/react"
-import { again } from "../AllRoutes/Home"
+import { Box, Button, Image, } from "@chakra-ui/react"
 import styles from "./bb.module.css"
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom"
+import data from "../data.json"
 
 
 function Slides(){
@@ -14,12 +13,8 @@ function Slides(){
     let limit=2
 
     useEffect(()=>{
-        again("slides",{page:page,limit:limit}).then((res)=>
-        setSlides(res.data)
-        )
-        again("slides").then((res)=>{
-            setLast(res.data.length/limit)
-        })
+        setSlides(data.slides)
+        setLast(data.slides.length/limit)
 
     },[page])
 

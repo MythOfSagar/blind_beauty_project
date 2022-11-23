@@ -1,10 +1,8 @@
 import React, { useContext } from "react";
-import axios from "axios";
 import { ModalContent, useDisclosure,ModalHeader} from "@chakra-ui/react";
 import { useState } from "react";
 import { Button, Box , Input } from '@chakra-ui/react'
 import {Modal,ModalBody} from "@chakra-ui/react"
-import { useEffect } from "react";
 import styles from "./bb.module.css"
 import { AuthContext } from "./Context";
 
